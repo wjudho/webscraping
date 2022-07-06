@@ -1,0 +1,117 @@
+Hero,Name,Hero Code,Role(s),Specialties,Laning,Release Year,Price
+,Miya,1,Marksman,Reap | Damage,Gold Laner,2016,10800 399
+,Balmond,2,Fighter,Damage | Regen,EXP Laner,2016,6500 299
+,Saber,3,Assassin,Charge | Reap,Jungler,2016,6500 299
+,Alice,4,Mage | Tank,Charge | Regen,Mid Laner,2016,15000 399
+,Nana,5,Mage | Support,Poke | Guard,Mid Laner,2016,6500 299
+,Tigreal,6,Tank | Support,Crowd Control,Roamer,2016,6500 299
+,Alucard,7,Fighter | Assassin,Chase | Damage,EXP Laner,2016,15000 399
+,Karina,8,Assassin,Reap | Magic Damage,Jungler,2016,32000 599
+,Akai,9,Tank | Support,Guard | Crowd Control,Roamer,2016,32000 599
+,Franco,10,Tank | Support,Initiator | Control,Roamer,2016,32000 749
+,Bane,11,Fighter,Push | Burst,EXP Laner,2016,6500 299
+,Bruno,12,Marksman,Reap | Burst,Gold Laner,2016,15000 399
+,Clint,13,Marksman,Reap | Burst,Gold Laner,2016,15000 399
+,Rafaela,14,Support,Regen | Guard,Roamer,2016,6500 299
+,Eudora,15,Mage,Control | Burst,Mid Laner,2016,2000 299
+,Zilong,16,Fighter | Assassin,Chase | Damage,EXP Laner,2016,Free
+,Fanny,17,Assassin,Chase | Reap,Jungler,2016,24000 499
+,Layla,18,Marksman,Reap | Damage,Gold Laner,2016,Free
+,Minotaur,19,Tank | Support,Crowd Control,Roamer,2016,15000 399
+,Lolita,20,Support | Tank,Guard | Crowd Control,Roamer,2016,32000 599
+,Hayabusa,21,Assassin,Chase | Burst,Jungler,2016,32000 599
+,Freya,22,Fighter,Chase | Damage,EXP Laner,2016,599
+,Gord,23,Mage,Poke | Burst,Mid Laner,2016,24000 499
+,Natalia,24,Assassin,Chase | Reap,Jungler,2016,32000 599
+,Kagura,25,Mage,Poke | Reap,Mid Laner,2016,32000 599
+,Chou,26,Fighter,Chase | Control,EXP Laner,2016,24000 499
+,Sun,27,Fighter,Push | Damage,EXP Laner,2016,32000 599
+,Alpha,28,Fighter,Charge | Damage,EXP Laner,2017,32000 599
+,Ruby,29,Fighter | Tank,Crowd Control | Regen,EXP Laner,2017,32000 599
+,Yi Sun-shin,30,Assassin | Marksman,Reap | Chase,Gold Laner,2017,32000 599
+,Moskov,31,Marksman,Reap | Chase,Gold Laner,2017,32000 599
+,Johnson,32,Tank,Support | Crowd Control,Roamer,2017,32000 599
+,Cyclops,33,Mage,Poke | Control,Mid Laner,2017,15000 399
+,Estes,34,Support,Regen | Guard,Roamer,2017,24000 499
+,Hilda,35,Fighter | Tank,Damage | Regen,EXP Laner,2017,24000 499
+,Aurora,36,Mage,Crowd Control | Poke,Mid Laner,2017,24000 499
+,Lapu-Lapu,37,Fighter,Chase | Burst,EXP Laner,2017,32000 599
+,Vexana,38,Mage,Poke | Control,Mid Laner,2017,32000 599
+,Roger,39,Fighter | Marksman,Reap | Burst,EXP Laner,2017,24000 499
+,Karrie,40,Marksman,Reap | Damage,Gold Laner,2017,24000 499
+,Gatotkaca,41,Tank | Fighter,Crowd Control | Burst,EXP Laner,2017,32000 599
+,Harley,42,Mage | Assassin,Burst | Poke,Jungler,2017,32000 599
+,Irithel,43,Marksman,Reap | Burst,Gold Laner,2017,32000 599
+,Grock,44,Tank,Crowd Control | Initiator,Roamer,2017,32000 599
+,Argus,45,Fighter,Charge | Burst,EXP Laner,2017,32000 599
+,Odette,46,Mage,Burst | Poke,Mid Laner,2017,20
+,Lancelot,47,Assassin,Chase | Burst,Jungler,2017,32000 599
+,Diggie,48,Support,Guard | Poke,Roamer,2017,24000 499
+,Hylos,49,Tank,Guard | Initiator,Roamer,2017,32000 599
+,Zhask,50,Mage,Chase | Damage,Mid Laner,2017,32000 599
+,Helcurt,51,Assassin,Push | Burst,Jungler,2017,32000 599
+,Pharsa,52,Mage,Burst | Poke,Mid Laner,2017,32000 599
+,Lesley,53,Marksman | Assassin,Reap | Burst,Gold Laner,2018,32000 599
+,Jawhead,54,Fighter,Charge | Burst,EXP Laner,2018,32000 599
+,Angela,55,Support,Guard | Support,Roamer,2018,24000 499
+,Gusion,56,Assassin,Burst | Magic Damage,Jungler,2018,32000 599
+,Valir,57,Mage,Damage | Guard,Mid Laner,2018,32000 599
+,Martis,58,Fighter,Reap | Charge,EXP Laner,2018,32000 599
+,Uranus,59,Tank,Regen,EXP Laner,2018,32000 599
+,Hanabi,60,Marksman,Reap | Damage,Gold Laner,2018,32000 599
+,Chang'e,61,Mage,Poke | Burst,Mid Laner,2018,32000 599
+,Kaja,62,Fighter | Support,Control | Charge,EXP Laner,2018,32000 599
+,Selena,63,Assassin | Mage,Initiator | Reap,Jungler,2018,32000 599
+,Aldous,64,Fighter,Burst | Support,EXP Laner,2018,32000 599
+,Claude,65,Marksman,Burst | Chase,Gold Laner,2018,32000 599
+,Vale,66,Mage,Burst | Crowd Control,Mid Laner,2019,32000 599
+,Leomord,67,Fighter,Chase | Burst,EXP Laner,2018,32000 599
+,Lunox,68,Mage,Burst | Damage,Mid Laner,2018,32000 599
+,Hanzo,69,Assassin,Poke | Burst,Jungler,2018,32000 599
+,Belerick,70,Tank,Crowd Control | Regen,Roamer,2018,32000 599
+,Kimmy,71,Marksman | Mage,Damage | Magic Damage,Gold Laner,2018,32000 599
+,Thamuz,72,Fighter,Chase | Damage,EXP Laner,2018,32000 599
+,Harith,73,Mage,Chase | Damage,Mid Laner,2018,32000 599
+,Minsitthar,74,Fighter,Initiator | Crowd Control,EXP Laner,2018,32000 599
+,Kadita,75,Mage | Assassin,Burst | Charge,Mid Laner,2018,32000 599
+,Faramis,76,Support | Mage,Guard | Charge,Roamer,2019,32000 599
+,Badang,77,Fighter,Charge | Burst,EXP Laner,2019,32000 599
+,Khufra,78,Tank | Support,Initiator | Crowd Control,Roamer,2019,32000 599
+,Granger,79,Marksman,Burst | Reap,Gold Laner,2019,32000 599
+,Guinevere,80,Fighter,Burst | Magic Damage,EXP Laner,2019,32000 599
+,Esmeralda,81,Mage | Tank,Regen | Mixed Damage,Mid Laner,2019,32000 599
+,Terizla,82,Fighter,Burst | Crowd Control,EXP Laner,2019,32000 599
+,X.Borg,83,Fighter,Regen | Burst,EXP Laner,2019,32000 599
+,Ling,84,Assassin,Chase | Burst,Jungler,2019,32000 599
+,Dyrroth,85,Fighter,Charge | Burst,EXP Laner,2019,32000 599
+,Lylia,86,Mage,Push | Damage,Mid Laner,2019,32000 599
+,Baxia,87,Tank,Support | Damage,Roamer,2019,32000 599
+,Masha,88,Fighter,Push | Damage,EXP Laner,2019,32000 599
+,Wanwan,89,Marksman,Reap | Burst,Gold Laner,2019,32000 599
+,Silvanna,90,Fighter,Initiator | Magic Damage,EXP Laner,2019,32000 599
+,Cecilion,91,Mage,Poke | Burst,Mid Laner,2020,32000 599
+,Carmilla,92,Support,Crowd Control | Damage,Roamer,2020,32000 599
+,Atlas,93,Tank | Support,Crowd Control | Initiator,Roamer,2020,32000 599
+,Popol and Kupa,94,Marksman,Push | Burst,Gold Laner,2020,32000 599
+,Yu Zhong,95,Fighter,Regen | Damage,EXP Laner,2020,32000 599
+,Luo Yi,96,Mage,Support | Crowd Control,Mid Laner,2020,32000 599
+,Khaleed,98,Fighter,Damage | Regen,EXP Laner,2020,32000 599
+,Benedetta,97,Assassin,Chase | Burst,EXP Laner,2020,32000 599
+,Barats,99,Tank | Fighter,Damage | Crowd Control,EXP Laner,2020,32000 599
+,Brody,100,Marksman,Burst | Reap,Gold Laner,2020,32000 599
+,Yve,101,Mage,Poke | Burst,Mid Laner,2021,32000 599
+,Mathilda,102,Support | Assassin,Initiator | Guard,Roamer,2020,32000 599
+,Paquito,103,Fighter,Chase | Damage,EXP Laner,2021,32000 599
+,Gloo,104,Tank,Regen | Control,EXP Laner,2021,32000 599
+,Beatrix,105,Marksman,Reap | Damage,Gold Laner,2021,32000 599
+,Phoveus,106,Fighter,Chase | Control,EXP Laner,2021,32000 599
+,Natan,107,Marksman,Burst | Magic Damage,Gold Laner,2021,32000 599
+,Aulus,108,Fighter,Damage | Crowd Control,EXP Laner,2021,32000 599
+,Aamon,109,Assassin,Burst | Magic Damage,Mid Laner,2021,32000 599
+,Valentina,111,Mage,Burst | Reap,Mid Laner,2021,32000 599
+,Edith,112,Tank | Marksman,Control | Burst,EXP Laner,2021,32000 599
+,Floryn,110,Support,Poke | Guard,Roamer,2021,32000 599
+,Yin,113,Fighter,Burst | Control,EXP Laner,2022,32000 599
+,Melissa,114,Marksman,Reap | Damage,Gold Laner,2022,32000 599
+,Xavier,115,Mage,Damage | Guard,Mid Laner,2022,32000 599
+,Julian,116,Fighter | Mage,Chase | Magic Damage,EXP Laner,2022,32000 599
